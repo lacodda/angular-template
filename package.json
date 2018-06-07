@@ -1,0 +1,35 @@
+{
+  "name": "angular-template",
+  "version": "0.0.1",
+  "description": "Angular template for creating new web application",
+  "license": "MIT",
+  "main": "index.js",
+  "homepage": "https://github.com/lacodda/angular-template",
+  "author": {
+    "name": "Kirill Lahtachev",
+    "email": "lahtachev@gmail.com",
+    "url": "http://lacodda.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lacodda/angular-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lacodda/angular-template/issues"
+  },
+  "keywords": [
+    "angular",
+    "template"
+  ],
+  "scripts": {
+  },
+  "files": [
+    "bin/",
+    "lib/"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
